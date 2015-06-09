@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42DF5509-C0EC-45BF-8F37-DFA5582BB864</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LeeUmengShare</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0BE61105F9CA1A60859F927FE80DFEB075F0944A</key>
+		<string>https://github.com/yuanjilee/LeeUmengShare.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LeeUmengShare.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0BE61105F9CA1A60859F927FE80DFEB075F0944A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yuanjilee/LeeUmengShare.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0BE61105F9CA1A60859F927FE80DFEB075F0944A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0BE61105F9CA1A60859F927FE80DFEB075F0944A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LeeUmengShare</string>
+		</dict>
+	</array>
+</dict>
+</plist>

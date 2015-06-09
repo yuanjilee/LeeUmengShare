@@ -19,16 +19,11 @@
 
     //第三方AppKey
     #define umeng_appkey           @"539ef8c656240bab4e00aefe"
-    #define umeng_secret           @"efea00e4bab042656c8fe935"
     #define sinaweibo_appkey       @"1626815187"
-    #define sinaweibo_appsecret    @"f75993ece5d0a74ce95c1632760aa04c"
     #define weixin_appkey          @"wx0c75d865a184ba9f"
-    #define weixin_appsecret       @"0ccb4d2083ad0ad46502af507c36ee3e"
-    #define qq_appkey              @"nrZkcIwlgZ076gQc"
     #define qq_appID               @"1102910298"
 
 //    #define qq_appID              @"101139449"
-//    #define qq_appkey             @"7072a148f66ae5e09d1f795d1f6c9eae"
 
 
     //release版本禁止输出NSLog内容
